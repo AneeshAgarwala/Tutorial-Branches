@@ -1,1 +1,3 @@
 Will changes be tracked here?
+
+-Update: Yes, any .txt files added prior to changes made in .gitignore are tracked. 
